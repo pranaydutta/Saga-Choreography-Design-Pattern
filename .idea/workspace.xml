@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20571e3e-922b-4333-87f3-47e21f50f1d0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/OrderServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/config/DynamoDBConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/config/DynamoDBConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/entity/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/mapper/OrderMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/mapper/OrderMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/publish/PublishOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/publish/PublishOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/repo/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/repo/OrderRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/service/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/dutta/service/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/resources/application-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shared/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shared/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="20571e3e-922b-4333-87f3-47e21f50f1d0" name="Changes" comment="Payment-service updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,6 +154,14 @@
       <option name="presentableId" value="Default" />
       <updated>1642391122017</updated>
     </task>
+    <task id="LOCAL-00001" summary="Payment-service updated">
+      <created>1642695137748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642695137748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +187,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Payment-service updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Payment-service updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
