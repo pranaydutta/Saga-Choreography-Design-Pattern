@@ -1,0 +1,7 @@
+org\dutta\config\DynamoDBConfig.class
+org\dutta\consumer\PaymentConsumer.class
+org\dutta\repo\PaymentRepository.class
+org\dutta\mapper\PaymentMapper.class
+org\dutta\service\PaymentService.class
+org\dutta\PaymentServiceApplication.class
+org\dutta\publish\PaymentPublisher.class

@@ -35,7 +35,6 @@ public class DynamoDBConfig {
     }
 
     private AmazonDynamoDB amazonDynamoDBConfig() {
-System.out.println("ACCESS_KEY"+ACCESS_KEY);
         return AmazonDynamoDBClientBuilder.standard()
                 .withEndpointConfiguration(new AwsClientBuilder.EndpointConfiguration(SERVICE_ENDPOINT, REGION))
                 .withCredentials(new AWSStaticCredentialsProvider(new BasicAWSCredentials(ACCESS_KEY, SECRET_KEY))).build();

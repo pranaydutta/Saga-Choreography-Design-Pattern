@@ -2,8 +2,8 @@ package org.dutta.publish;
 
 import com.amazonaws.services.sqs.AmazonSQSAsync;
 import io.awspring.cloud.messaging.core.QueueMessagingTemplate;
-import org.dutta.entity.Order;
-import org.springframework.context.annotation.Configuration;
+
+import org.dutta.model.Order;
 import org.springframework.stereotype.Service;
 
 @Service

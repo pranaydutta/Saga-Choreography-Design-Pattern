@@ -1,7 +1,7 @@
 package org.dutta.repo;
 
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper;
-import org.dutta.entity.Order;
+import org.dutta.model.Order;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

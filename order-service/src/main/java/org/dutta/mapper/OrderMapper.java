@@ -2,7 +2,8 @@ package org.dutta.mapper;
 
 import com.dutta.shared.CreateOrderRequest;
 import com.dutta.shared.OrderResponse;
-import org.dutta.entity.Order;
+
+import org.dutta.model.Order;
 import org.dutta.model.Product;
 import org.springframework.stereotype.Service;
 
